@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "201149387910",
+    "firebase_url": "https://plantcare-and-shopping-default-rtdb.firebaseio.com",
+    "project_id": "plantcare-and-shopping",
+    "storage_bucket": "plantcare-and-shopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201149387910:android:7bb74fc6795ed3a600ed07",
+        "android_client_info": {
+          "package_name": "com.example.diseasedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201149387910-8dtpe1qp18od3ot6gq3djr2825keumdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3Axc8_uF9YiwugxhBVl0H4zmFAVNujI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201149387910-8dtpe1qp18od3ot6gq3djr2825keumdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201149387910:android:2d4d0a9147cbc04400ed07",
+        "android_client_info": {
+          "package_name": "com.example.owner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201149387910-8dtpe1qp18od3ot6gq3djr2825keumdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3Axc8_uF9YiwugxhBVl0H4zmFAVNujI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201149387910-8dtpe1qp18od3ot6gq3djr2825keumdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201149387910:android:c4d48df0d749b09d00ed07",
+        "android_client_info": {
+          "package_name": "com.example.planteasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201149387910-8dtpe1qp18od3ot6gq3djr2825keumdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm3Axc8_uF9YiwugxhBVl0H4zmFAVNujI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201149387910-8dtpe1qp18od3ot6gq3djr2825keumdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

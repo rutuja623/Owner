@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowDisablePreview">true</item> //
+    </style>
+
+    <style name="RobotoTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/more_sugar_regular</item>
+    </style>
+
+
+    <style name="RobotoTextViewStyle2" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/nunito_variablefont_wght</item>
+    </style>
+
+    <style name="RobotoTextViewStyle3" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/more_sugar_regular</item>
+    </style>
+
+    <style name="Button.green4" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@color/green4</item>
+    </style>
+
+
+</resources>
